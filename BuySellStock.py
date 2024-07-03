@@ -91,6 +91,13 @@ profit = buySellStock_App2(prices)
 print(profit)
 
 
+"""
+
+T(n) : O(n)
+S(n) : O(1)
+
+"""
+
 
 
 
