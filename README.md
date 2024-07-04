@@ -20,4 +20,4 @@
 ### Jul 4 - Product of Array Except Self
 * 2 Approaches
   + Looping
-  + Single Pass (Forwad + backward)
+  + Single Pass (Forward + Backward)
