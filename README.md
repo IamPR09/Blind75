@@ -22,12 +22,16 @@
   + Looping
   + Single Pass (Forward + Backward)
 
-
-
 :red_circle: SubArray with max Sum
 
 - 2 Approaches
   + Looping
   + Single Pass (Kadane Algorithm)
+
+:green_circle: Conatiner with Most Water
+* 2 Approaches
+  + Looping
+  + Single Pass (2 Pointer)
+
 
 
