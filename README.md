@@ -39,7 +39,7 @@
   + Sorted (Log n)
   + Sorted (Think Binary Search)
  
-:orange_circle: Search in Roatated Sorted Array
+:orange_circle: Search in Rotated Sorted Array
 * 2 Approaches
   + Single pass 
   + Sorted (Log n) - (Think Binary Search)
