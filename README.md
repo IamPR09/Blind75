@@ -28,7 +28,7 @@
   + Looping
   + Single Pass (Kadane Algorithm)
 
-:green_circle: Conatiner with Most Water
+:green_circle: Container with Most Water
 * 2 Approaches
   + Looping
   + Single Pass (2 Pointer)
@@ -39,7 +39,7 @@
   + Sorted (Log n)
   + Sorted (Think Binary Search)
  
-:orange_circle: search a Target  in Roatated Sorted Array
+:orange_circle: Search in Roatated Sorted Array
 * 2 Approaches
   + Single pass 
   + Sorted (Log n) - (Think Binary Search)
