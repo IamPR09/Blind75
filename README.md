@@ -33,7 +33,7 @@
   + Looping
   + Single Pass (2 Pointer)
 
-:orange_circle: Find min in Roatated Sorted Array
+:orange_circle: Find min in Rotated Sorted Array
 * 3 Approaches
   + Single pass 
   + Sorted (Log n)
