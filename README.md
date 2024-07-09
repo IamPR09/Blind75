@@ -38,6 +38,13 @@
   + Single pass 
   + Sorted (Log n)
   + Sorted (Think Binary Search)
+ 
+:orange_circle: search a Target  in Roatated Sorted Array
+* 2 Approaches
+  + Single pass 
+  + Sorted (Log n) - (Think Binary Search)
+  + Keep in mind the cases and explicitly move pointers
+
 
 
 
