@@ -45,6 +45,12 @@
   + Sorted (Log n) - (Think Binary Search)
   + Keep in mind the cases and explicitly move pointers
 
+:orange_circle: Missing Number
+* 2 Approaches
+  + Sort and Search
+  + Maths formula
+  + Hash Map (Whats the Time and Space complexity)
+
 
 
 
