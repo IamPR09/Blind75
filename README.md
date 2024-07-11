@@ -51,6 +51,9 @@
   + Maths formula
   + Hash Map (Whats the Time and Space complexity)
 
-
+:red_circle: Maximum Product SubArray
+* 2 Approaches
+  + Simple Loop
+  + Maintain Max, Min 
 
 
