@@ -77,3 +77,8 @@ def maxSubArray_Kadane(nums : List[int]) -> int :
 nums = [-2,1,-3,4,-1,2,1,-5,4]
 result = maxSubArray_Kadane(nums)
 print(result)
+
+"""
+T(n) : O(n)
+S(n) : O(1)
+"""
