@@ -64,4 +64,9 @@
 * 3 Approaches
   + Looping
   + Sorting
-  + Hash map 
+  + Hash map
+ 
+:orange_circle: House Robber
+* 1 Approach
+  + Dynamic programming
+
