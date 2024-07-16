@@ -69,4 +69,9 @@
 :orange_circle: House Robber
 * 1 Approach
   + Dynamic programming
+ 
+:red_circle: Coin Change
+* 1 Approach
+  + Dynamic programming (Memoization)
+  + Why will not Greedy work ?
 
