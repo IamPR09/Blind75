@@ -75,7 +75,7 @@
   + Dynamic programming (Memoization)
   + Why will not Greedy work ?
 
-:red_circle: Coin Change II
+:red_circle: House Robber II
 * 1 Approach
-  + Dynamic programming
-  + Why will not Greedy work ?
+  +
+  + 
