@@ -80,3 +80,9 @@
   + Dynamic Programming 
   + Extension of House RObber 1
   + 1 edge Case ???
+
+:red_circle: Merge Intervals
+* 1 Approach
+  + sort by first element
+  + what should be the conditio to check - to merge ?
+  + 
