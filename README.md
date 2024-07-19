@@ -85,4 +85,9 @@
 * 1 Approach
   + sort by first element
   + what should be the conditio to check - to merge ?
+ 
+:orange_circle: non overlapping intervals Intervals
+* 1 Approach
+  + sort by first element
+  + what should be the condition to check ??
   + 
