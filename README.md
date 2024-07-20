@@ -96,3 +96,8 @@
   + sort by first element
   + simple condition check
   + 
+🟢 Meeting Rooms II
+* 1 Approach
+  + sort by first element
+  + 2 arrays and maintain how many meeting rooms in progress
+  + 
