@@ -90,4 +90,9 @@
 * 1 Approach
   + sort by first element
   + what should be the condition to check ??
+ 
+🟢 Meeting Rooms
+* 1 Approach
+  + sort by first element
+  + simple condition check
   + 
