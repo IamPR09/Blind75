@@ -100,4 +100,9 @@
 * 1 Approach
   + sort by first element
   + 2 arrays and maintain how many meeting rooms in progress
-  + 
+ 
+🟢 Merge Sorted link List
+* 1 Approach
+  + 2 pointers and compare
+  + start with dummy and keep moving the current pointer
+  + return dummy next
