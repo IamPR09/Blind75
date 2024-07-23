@@ -106,3 +106,9 @@
   + 2 pointers and compare
   + start with dummy and keep moving the current pointer
   + return dummy next
+
+🟢 Remove Nth Node
+* 2 Approach
+  + Single pass
+  + Tweo pass
+  + return dummy next
