@@ -110,5 +110,11 @@
 🟢 Remove Nth Node
 * 2 Approach
   + Single pass
-  + Tweo pass
+  + Two pass
   + return dummy next
+ 
+🟢 Longest Substring No Repeating Chars
+* 2 Approach
+  + Single pass
+  + Loop
+  + Look at code and read the approaches
