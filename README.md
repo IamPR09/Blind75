@@ -118,3 +118,9 @@
   + Single pass
   + Loop
   + Look at code and read the approaches
+ 
+🟢 group anagram
+* 1 Approach
+  + sort and map
+  + key of map is sorted string
+    
