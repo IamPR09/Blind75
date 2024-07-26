@@ -126,7 +126,7 @@
 
 
 🟢 Valid Palindrome
-* 1 Approach
+* 2 Approach
   + sort and map
   + key of map is sorted string
     
