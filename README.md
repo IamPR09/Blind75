@@ -127,6 +127,5 @@
 
 🟢 Valid Palindrome
 * 2 Approach
-  + sort and map
-  + key of map is sorted string
-    
+  + reverse and compare
+  + 2 Pointer
