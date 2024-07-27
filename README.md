@@ -129,9 +129,13 @@
 * 2 Approach
   + reverse and compare
   + 2 Pointer
- 
   
 🔴 longest Palindrome substring
 * 1 Approach
   + inside out 2 pointer
   + 2 case - even length and odd length
+
+🟢 Invert a binary tree
+* 1 approach
+  + recursive
+    
