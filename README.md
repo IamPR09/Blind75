@@ -129,3 +129,9 @@
 * 2 Approach
   + reverse and compare
   + 2 Pointer
+ 
+  
+🟠 Valid Palindrome
+* 2 Approach
+  + reverse and compare
+  + 2 Pointer
