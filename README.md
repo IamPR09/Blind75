@@ -131,7 +131,7 @@
   + 2 Pointer
  
   
-🟠 Valid Palindrome
+🟠 longest Palindrome
 * 2 Approach
   + reverse and compare
   + 2 Pointer
