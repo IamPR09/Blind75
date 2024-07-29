@@ -138,4 +138,7 @@
 🟢 Invert a binary tree
 * 1 approach
   + recursive
-    
+
+🟢 Same tree
+* 1 approach
+  + recursive
