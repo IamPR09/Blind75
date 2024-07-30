@@ -142,3 +142,8 @@
 🟢 Same tree
 * 1 approach
   + recursive
+
+🟢 LCA in BST 
+* 1 approach
+  + recursive
+  + lCA is where split happens
