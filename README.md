@@ -152,3 +152,8 @@
 * 1 approach
   + count map and sort
   + single pass using bucket sort
+ 
+  
+🟢 Kth smallest element
+* 1 approach
+  + 
