@@ -154,6 +154,6 @@
   + single pass using bucket sort
  
   
-🟢 Kth smallest element BST
+🟠 Kth smallest element BST
 * 1 approach
   + 
