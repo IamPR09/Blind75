@@ -156,4 +156,5 @@
   
 🟠 Kth smallest element BST
 * 1 approach
+  + InOrder traversal
   + 
