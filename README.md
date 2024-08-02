@@ -157,4 +157,9 @@
 🟠 Kth smallest element BST
 * 1 approach
   + InOrder traversal
+ 
+🟠 Longest Sequence
+* 2 approach
+  + sort and comapre
+  + set operation
   + 
