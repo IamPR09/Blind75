@@ -171,4 +171,9 @@
 
 🟢 🟢 🟢 REVISION Contd. 🟢 🟢 🟢
 
+ 
+🟠 Valid Parenthesis
+* 1 approach
+  + mapa nd stack - close to open
 
+    
