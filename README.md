@@ -177,4 +177,4 @@
   + mapa nd stack - close to open
 
 🟢 🟢 🟢 REVISION Contd. 🟢 🟢 🟢
-
+🟢 🟢 🟢 REVISION Contd. 🟢 🟢 🟢
