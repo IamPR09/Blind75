@@ -178,3 +178,9 @@
 
 🟢 🟢 🟢 REVISION Contd. 🟢 🟢 🟢
 🟢 🟢 🟢 REVISION Contd. 🟢 🟢 🟢
+
+
+🟠 Closest to zero
+* 1 approach
+  + number line
+  + special case when dist equal
