@@ -188,4 +188,4 @@
 🟢 Merg String Alternately
 * 1 approach
   + empty stringa nd update
-  + ** no append in string **
+  + **no append in string**
